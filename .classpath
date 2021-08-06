@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="arrays_demo/src"/>
+	<classpathentry kind="src" path="builder_buffer_demo/src"/>
+	<classpathentry kind="src" path="Myfirst_java_program(lecture)/src"/>
+	<classpathentry kind="src" path="Primitives_DataType_Demo/src"/>
+	<classpathentry kind="src" path="RegexDemo/src"/>
+	<classpathentry kind="src" path="StringDemo/src"/>
+	<classpathentry kind="src" path="WrappersDemo/src"/>
+	<classpathentry kind="output" path="Myfirst_java_program(lecture)/bin"/>
+</classpath>
