@@ -1,0 +1,99 @@
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Hello Friends! WELCOME TO ANSHU SONI PLAYER APP
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - 
+-------------------------------------------------
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-14 00:34:48 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Hello Friends! WELCOME TO ANSHU SONI PLAYER APP
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - ==============================================
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-14 00:35:39 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Hello Friends! WELCOME TO ANSHU SONI PLAYER APP
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - ==============================================
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-14 00:36:48 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - creating under process
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-14 00:36:52 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-14 00:36:56 INFO  com.app.Main  - Thank you for using this app,We will see you soon
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Hello Friends! WELCOME TO ANSHU SONI PLAYER APP
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - ==============================================
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-15 17:30:25 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - Welcome to Player Search Menu....Search a player by various filters by using below options: 
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 1) by Player Id
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 2) by Player Name
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 3) by Player Age
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 4) by Player City
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 5) by Player Gender
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 6) by Player sportsname
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 7) by Player teamid
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - 8) go back to main menu
+[main] 2021-08-15 17:30:32 INFO  com.app.Main  - Please enter 1-8
+[main] 2021-08-15 17:30:42 INFO  com.app.Main  - Enter a Player id: 
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-15 17:30:52 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Hello Friends! WELCOME TO ANSHU SONI PLAYER APP
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - ==============================================
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-15 17:31:23 INFO  com.app.Main  - Press 6-To exit
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - Welcome to Player Search Menu....Search a player by various filters by using below options: 
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 1) by Player Id
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 2) by Player Name
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 3) by Player Age
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 4) by Player City
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 5) by Player Gender
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 6) by Player sportsname
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 7) by Player teamid
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - 8) go back to main menu
+[main] 2021-08-15 17:31:27 INFO  com.app.Main  - Please enter 1-8
+[main] 2021-08-15 17:31:28 INFO  com.app.Main  - Enter a Player id: 
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - 
+What do you wish to do today? 
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 1-To create a player
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 2-To update a player
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 3-To delete a player
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 4-To search a player using different filters
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 5-To display all players
+[main] 2021-08-15 17:31:32 INFO  com.app.Main  - Press 6-To exit
